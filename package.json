@@ -10,6 +10,7 @@
     "test": "jest",
     "test:watch": "jest --watch"
   },
+  "type": "module",
   "author": "",
   "license": "MIT",
   "dependencies": {
